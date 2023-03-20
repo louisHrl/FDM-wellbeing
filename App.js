@@ -7,6 +7,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Text>FDM Wellbeing</Text>
+      <Text>FDM Wellbeing</Text>
       <TouchableHighlight onPress={() => console.log("image tapped")}>
         <Button title='Login'></Button>
       </TouchableHighlight>
